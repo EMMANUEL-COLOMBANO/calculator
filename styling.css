@@ -1,0 +1,20 @@
+form{
+    padding: 15px;
+    background-color: lightgrey;
+    margin: 20px;
+line-height: 45px;
+width: 300px;
+border-bottom-left-radius: 15px;
+border-bottom-right-radius: 15px;
+border-top-right-radius: 15px;
+border-top-left-radius: 15px;
+text-align: center;
+
+}
+#b1{
+    width: 40px;
+    font-weight: bold;
+}
+#b2{
+    height: 30px;
+}
